@@ -1,3 +1,12 @@
+## My Version of 'Now In Android Using Kotlin and Jetpack compose'
+
+Forked from https://github.com/android/nowinandroid [https://github.com/android/nowinandroid]
+
+Acknowledgement to original authors. 
+The rest of readme below
+
+==================
+
 ![Now in Android](docs/images/nia-splash.jpg "Now in Android")
 
 Now in Android App [Work in progress 🚧]
